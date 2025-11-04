@@ -1,0 +1,17 @@
+# Ignore dataset folders
+bdd100k/images_10k/
+bdd100k/labels/
+bdd100k/yolo_format/
+bdd100k/augmented/
+bdd100k/augmented_labels/
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore large temp files
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.7z

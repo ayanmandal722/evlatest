@@ -1,0 +1,19 @@
+# bdd100k_augmented.yaml
+path: bdd100k
+train: augmented/train
+val: augmented/val
+test: augmented/test
+
+names:
+  0: person
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: train
+  6: motorcycle
+  7: bicycle
+  8: traffic light
+  9: traffic sign
+
+nc: 10
